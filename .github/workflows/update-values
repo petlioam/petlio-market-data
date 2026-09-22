@@ -1,0 +1,48 @@
+name: Update Petlio Market Data
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "17 */6 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: petlio-market-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Update Petlio market data
+        env:
+          PETLIO_SOURCE_URL: ${{ vars.PETLIO_SOURCE_URL }}
+          PETLIO_SOURCE_NAME: ${{ vars.PETLIO_SOURCE_NAME }}
+        run: node scripts/update.mjs
+
+      - name: Commit updated market data
+        run: |
+          if git diff --quiet -- current.json history; then
+            echo "No market data changes."
+            exit 0
+          fi
+
+          git config user.name "petlio-market-bot"
+          git config user.email "petlio-market-bot@users.noreply.github.com"
+
+          git add current.json history
+          git commit -m "Update Petlio market data"
+          git push
