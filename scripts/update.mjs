@@ -9,7 +9,9 @@ const MIN_ITEMS = 50;
 const root = dirname(dirname(fileURLToPath(import.meta.url)));
 const currentPath = join(root, "current.json");
 const summaryPath = join(root, "summary.json");
+const activityHistoryPath = join(root, "activity-history.json");
 const historyDir = join(root, "history");
+const MAX_HISTORY_DAYS = 90;
 
 function parseCsv(text) {
   const rows = [];
@@ -56,6 +58,16 @@ async function readCurrent() {
   } catch (error) {
     if (error?.code === "ENOENT") return null;
     throw new Error(`Existing current.json is invalid: ${error.message}`);
+  }
+}
+
+async function readActivityHistory() {
+  try {
+    const parsed = JSON.parse(await readFile(activityHistoryPath, "utf8"));
+    return parsed && Array.isArray(parsed.snapshots) ? parsed : null;
+  } catch (error) {
+    if (error?.code === "ENOENT") return null;
+    throw new Error(`Existing activity-history.json is invalid: ${error.message}`);
   }
 }
 
@@ -121,6 +133,11 @@ async function main() {
   }
   if (changed || !previous?.updatedAt) await atomicJson(currentPath, next);
   const current = changed || !previous?.updatedAt ? next : previous;
+  const existingHistory = await readActivityHistory();
+  const snapshotsByDay = new Map((existingHistory?.snapshots || []).map((snapshot) => [snapshot.day, snapshot]));
+  snapshotsByDay.set(current.sourceLatestDay, { day: current.sourceLatestDay, updatedAt: current.updatedAt, items: current.items.map(({ id, selling, buying, activity }) => ({ id, selling, buying, activity })) });
+  const snapshots = [...snapshotsByDay.values()].sort((a, b) => a.day.localeCompare(b.day)).slice(-MAX_HISTORY_DAYS);
+  await atomicJson(activityHistoryPath, { schemaVersion: 1, updatedAt: current.updatedAt, source: current.source, sourceUrl: current.sourceUrl, retentionDays: MAX_HISTORY_DAYS, snapshots });
   await atomicJson(summaryPath, { schemaVersion: 1, updatedAt: current.updatedAt, source: current.source, sourceUrl: current.sourceUrl, sourceLatestDay: current.sourceLatestDay, itemCount: current.itemCount, mostActive: current.items.slice(0, 50) });
   console.log(changed ? `Updated ${items.length} Adopt Me items for ${latestDay}.` : `No activity changes for ${latestDay}; kept current snapshot.`);
 }

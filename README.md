@@ -23,6 +23,7 @@ This is marketplace supply-and-demand activity data. It is **not** official Adop
 
 - [`current.json`](./current.json): complete normalized snapshot for the newest available FairStash day
 - [`summary.json`](./summary.json): lightweight top-50 `mostActive` ranking
+- [`activity-history.json`](./activity-history.json): up to 90 real daily snapshots for per-item activity graphs
 - [`history/`](./history): previous changed snapshots for future 24-hour, 7-day, and 30-day comparisons
 - [`scripts/update.mjs`](./scripts/update.mjs): dependency-free downloader, CSV parser, validator, and snapshot writer
 
@@ -36,4 +37,10 @@ Lightweight ranking URL:
 
 ```text
 https://raw.githubusercontent.com/petlioam/petlio-market-data/main/summary.json
+```
+
+Activity history URL:
+
+```text
+https://raw.githubusercontent.com/petlioam/petlio-market-data/main/activity-history.json
 ```

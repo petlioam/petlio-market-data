@@ -30,12 +30,12 @@ jobs:
 
       - name: Commit changed snapshots
         run: |
-          if git diff --quiet -- current.json summary.json history; then
+          if git diff --quiet -- current.json summary.json activity-history.json history; then
             echo "No market activity changes."
             exit 0
           fi
           git config user.name "petlio-market-bot"
           git config user.email "petlio-market-bot@users.noreply.github.com"
-          git add current.json summary.json history
+          git add current.json summary.json activity-history.json history
           git commit -m "Update Petlio market activity"
           git push
