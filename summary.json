@@ -1,205 +1,358 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-22T22:00:22.954Z",
+  "updatedAt": "2026-09-23T06:33:44.560Z",
   "source": "FairStash",
   "sourceUrl": "https://fairstash.app/data/supply.csv",
-  "sourceLatestDay": "2026-09-22",
-  "itemCount": 770,
+  "sourceLatestDay": "2026-09-23",
+  "itemCount": 692,
   "mostActive": [
     {
       "id": "ride-a-pet-potion-forever",
       "name": "Ride-A-Pet Potion (Forever)",
       "slug": "ride-a-pet-potion-forever",
-      "day": "2026-09-22",
-      "selling": 19,
-      "buying": 2,
-      "activity": 21
+      "day": "2026-09-23",
+      "selling": 18,
+      "buying": 4,
+      "activity": 22
     },
     {
-      "id": "cow",
-      "name": "Cow",
-      "slug": "cow",
-      "day": "2026-09-22",
-      "selling": 17,
-      "buying": 0,
-      "activity": 17
+      "id": "huntsman-robin",
+      "name": "Huntsman Robin",
+      "slug": "huntsman-robin",
+      "day": "2026-09-23",
+      "selling": 14,
+      "buying": null,
+      "activity": 14
     },
     {
-      "id": "purrowl",
-      "name": "Purrowl",
-      "slug": "purrowl",
-      "day": "2026-09-22",
-      "selling": 13,
-      "buying": 0,
-      "activity": 13
-    },
-    {
-      "id": "tiny-home",
-      "name": "Tiny Home",
-      "slug": "tiny-home",
-      "day": "2026-09-22",
+      "id": "cryptid",
+      "name": "Cryptid",
+      "slug": "cryptid",
+      "day": "2026-09-23",
       "selling": 12,
-      "buying": 0,
-      "activity": 12
-    },
-    {
-      "id": "strawberry-shortcake-bat-dragon",
-      "name": "Strawberry Shortcake Bat Dragon",
-      "slug": "strawberry-shortcake-bat-dragon",
-      "day": "2026-09-22",
-      "selling": 11,
-      "buying": 0,
-      "activity": 11
-    },
-    {
-      "id": "cattuccino",
-      "name": "Cattuccino",
-      "slug": "cattuccino",
-      "day": "2026-09-22",
-      "selling": 10,
-      "buying": null,
-      "activity": 10
-    },
-    {
-      "id": "donkey",
-      "name": "Donkey",
-      "slug": "donkey",
-      "day": "2026-09-22",
-      "selling": 10,
-      "buying": 0,
-      "activity": 10
-    },
-    {
-      "id": "fairytale-egg",
-      "name": "Fairytale Egg",
-      "slug": "fairytale-egg",
-      "day": "2026-09-22",
-      "selling": 8,
-      "buying": null,
-      "activity": 8
-    },
-    {
-      "id": "siamese-cat",
-      "name": "Siamese Cat",
-      "slug": "siamese-cat",
-      "day": "2026-09-22",
-      "selling": 8,
-      "buying": 0,
-      "activity": 8
+      "buying": 1,
+      "activity": 13
     },
     {
       "id": "unicorn",
       "name": "Unicorn",
       "slug": "unicorn",
-      "day": "2026-09-22",
-      "selling": 8,
-      "buying": 0,
-      "activity": 8
-    },
-    {
-      "id": "kangaroo",
-      "name": "Kangaroo",
-      "slug": "kangaroo",
-      "day": "2026-09-22",
-      "selling": 7,
+      "day": "2026-09-23",
+      "selling": 11,
       "buying": 1,
-      "activity": 8
+      "activity": 12
     },
     {
-      "id": "crow",
-      "name": "Crow",
-      "slug": "crow",
-      "day": "2026-09-22",
-      "selling": 7,
-      "buying": 0,
-      "activity": 7
+      "id": "crimson-cape",
+      "name": "Crimson Cape",
+      "slug": "crimson-cape",
+      "day": "2026-09-23",
+      "selling": 11,
+      "buying": null,
+      "activity": 11
     },
     {
       "id": "elephant",
       "name": "Elephant",
       "slug": "elephant",
-      "day": "2026-09-22",
+      "day": "2026-09-23",
+      "selling": 9,
+      "buying": 0,
+      "activity": 9
+    },
+    {
+      "id": "icy-porcupine",
+      "name": "Icy Porcupine",
+      "slug": "icy-porcupine",
+      "day": "2026-09-23",
+      "selling": 9,
+      "buying": 0,
+      "activity": 9
+    },
+    {
+      "id": "kangaroo",
+      "name": "Kangaroo",
+      "slug": "kangaroo",
+      "day": "2026-09-23",
+      "selling": 9,
+      "buying": 0,
+      "activity": 9
+    },
+    {
+      "id": "tiny-home",
+      "name": "Tiny Home",
+      "slug": "tiny-home",
+      "day": "2026-09-23",
+      "selling": 9,
+      "buying": 0,
+      "activity": 9
+    },
+    {
+      "id": "california-condor",
+      "name": "California Condor",
+      "slug": "california-condor",
+      "day": "2026-09-23",
+      "selling": 8,
+      "buying": 0,
+      "activity": 8
+    },
+    {
+      "id": "chameleon",
+      "name": "Chameleon",
+      "slug": "chameleon",
+      "day": "2026-09-23",
+      "selling": 8,
+      "buying": 0,
+      "activity": 8
+    },
+    {
+      "id": "chihuahua",
+      "name": "Chihuahua",
+      "slug": "chihuahua",
+      "day": "2026-09-23",
+      "selling": 8,
+      "buying": 0,
+      "activity": 8
+    },
+    {
+      "id": "cow",
+      "name": "Cow",
+      "slug": "cow",
+      "day": "2026-09-23",
+      "selling": 8,
+      "buying": 0,
+      "activity": 8
+    },
+    {
+      "id": "frozen-penguin",
+      "name": "Frozen Penguin",
+      "slug": "frozen-penguin",
+      "day": "2026-09-23",
+      "selling": 8,
+      "buying": 0,
+      "activity": 8
+    },
+    {
+      "id": "gumball-caterpillar",
+      "name": "Gumball Caterpillar",
+      "slug": "gumball-caterpillar",
+      "day": "2026-09-23",
+      "selling": 8,
+      "buying": 0,
+      "activity": 8
+    },
+    {
+      "id": "pangolin",
+      "name": "Pangolin",
+      "slug": "pangolin",
+      "day": "2026-09-23",
+      "selling": 8,
+      "buying": 0,
+      "activity": 8
+    },
+    {
+      "id": "three-blind-mice",
+      "name": "Three Blind Mice",
+      "slug": "three-blind-mice",
+      "day": "2026-09-23",
+      "selling": 8,
+      "buying": null,
+      "activity": 8
+    },
+    {
+      "id": "alicorn",
+      "name": "Alicorn",
+      "slug": "alicorn",
+      "day": "2026-09-23",
       "selling": 7,
       "buying": 0,
       "activity": 7
     },
     {
-      "id": "parrot",
-      "name": "Parrot",
-      "slug": "parrot",
-      "day": "2026-09-22",
-      "selling": 7,
-      "buying": 0,
-      "activity": 7
-    },
-    {
-      "id": "princess-mare",
-      "name": "Princess Mare",
-      "slug": "princess-mare",
-      "day": "2026-09-22",
+      "id": "cattuccino",
+      "name": "Cattuccino",
+      "slug": "cattuccino",
+      "day": "2026-09-23",
       "selling": 7,
       "buying": null,
       "activity": 7
     },
     {
-      "id": "zebra",
-      "name": "Zebra",
-      "slug": "zebra",
-      "day": "2026-09-22",
+      "id": "dalmatian",
+      "name": "Dalmatian",
+      "slug": "dalmatian",
+      "day": "2026-09-23",
       "selling": 7,
       "buying": 0,
       "activity": 7
     },
     {
-      "id": "cabbit",
-      "name": "Cabbit",
-      "slug": "cabbit",
-      "day": "2026-09-22",
+      "id": "deinonychus",
+      "name": "Deinonychus",
+      "slug": "deinonychus",
+      "day": "2026-09-23",
+      "selling": 7,
+      "buying": 0,
+      "activity": 7
+    },
+    {
+      "id": "donkey",
+      "name": "Donkey",
+      "slug": "donkey",
+      "day": "2026-09-23",
+      "selling": 7,
+      "buying": 0,
+      "activity": 7
+    },
+    {
+      "id": "golden-unicorn",
+      "name": "Golden Unicorn",
+      "slug": "golden-unicorn",
+      "day": "2026-09-23",
+      "selling": 7,
+      "buying": 0,
+      "activity": 7
+    },
+    {
+      "id": "pupcake",
+      "name": "Pupcake",
+      "slug": "pupcake",
+      "day": "2026-09-23",
+      "selling": 7,
+      "buying": 0,
+      "activity": 7
+    },
+    {
+      "id": "retired-egg",
+      "name": "Retired Egg",
+      "slug": "retired-egg",
+      "day": "2026-09-23",
+      "selling": 7,
+      "buying": 0,
+      "activity": 7
+    },
+    {
+      "id": "rubber-ducky",
+      "name": "Rubber Ducky",
+      "slug": "rubber-ducky",
+      "day": "2026-09-23",
+      "selling": 7,
+      "buying": 0,
+      "activity": 7
+    },
+    {
+      "id": "mochi-meow",
+      "name": "Mochi Meow",
+      "slug": "mochi-meow",
+      "day": "2026-09-23",
+      "selling": 6,
+      "buying": 1,
+      "activity": 7
+    },
+    {
+      "id": "badger",
+      "name": "Badger",
+      "slug": "badger",
+      "day": "2026-09-23",
       "selling": 6,
       "buying": 0,
       "activity": 6
     },
     {
-      "id": "flaming-fox",
-      "name": "Flaming Fox",
-      "slug": "flaming-fox",
-      "day": "2026-09-22",
+      "id": "beaver",
+      "name": "Beaver",
+      "slug": "beaver",
+      "day": "2026-09-23",
       "selling": 6,
       "buying": 0,
       "activity": 6
     },
     {
-      "id": "fly-a-pet-potion-forever",
-      "name": "Fly-A-Pet Potion (Forever)",
-      "slug": "fly-a-pet-potion-forever",
-      "day": "2026-09-22",
+      "id": "bee",
+      "name": "Bee",
+      "slug": "bee",
+      "day": "2026-09-23",
       "selling": 6,
       "buying": 0,
       "activity": 6
     },
     {
-      "id": "frost-dragon",
-      "name": "Frost Dragon",
-      "slug": "frost-dragon",
-      "day": "2026-09-22",
+      "id": "bready-necklace",
+      "name": "Bready Necklace",
+      "slug": "bready-necklace",
+      "day": "2026-09-23",
       "selling": 6,
       "buying": 0,
+      "activity": 6
+    },
+    {
+      "id": "catte",
+      "name": "Catte",
+      "slug": "catte",
+      "day": "2026-09-23",
+      "selling": 6,
+      "buying": null,
+      "activity": 6
+    },
+    {
+      "id": "dragonfruit-fox",
+      "name": "Dragonfruit Fox",
+      "slug": "dragonfruit-fox",
+      "day": "2026-09-23",
+      "selling": 6,
+      "buying": 0,
+      "activity": 6
+    },
+    {
+      "id": "endangered-egg",
+      "name": "Endangered Egg",
+      "slug": "endangered-egg",
+      "day": "2026-09-23",
+      "selling": 6,
+      "buying": 0,
+      "activity": 6
+    },
+    {
+      "id": "fairytale-egg",
+      "name": "Fairytale Egg",
+      "slug": "fairytale-egg",
+      "day": "2026-09-23",
+      "selling": 6,
+      "buying": null,
       "activity": 6
     },
     {
       "id": "goat",
       "name": "Goat",
       "slug": "goat",
-      "day": "2026-09-22",
+      "day": "2026-09-23",
       "selling": 6,
       "buying": 0,
       "activity": 6
     },
     {
-      "id": "mahi-mahi",
-      "name": "Mahi Mahi",
-      "slug": "mahi-mahi",
-      "day": "2026-09-22",
+      "id": "golden-dragon",
+      "name": "Golden Dragon",
+      "slug": "golden-dragon",
+      "day": "2026-09-23",
+      "selling": 6,
+      "buying": 0,
+      "activity": 6
+    },
+    {
+      "id": "goose",
+      "name": "Goose",
+      "slug": "goose",
+      "day": "2026-09-23",
+      "selling": 6,
+      "buying": 0,
+      "activity": 6
+    },
+    {
+      "id": "oakee",
+      "name": "Oakee",
+      "slug": "oakee",
+      "day": "2026-09-23",
       "selling": 6,
       "buying": 0,
       "activity": 6
@@ -208,25 +361,43 @@
       "id": "onza",
       "name": "Onza",
       "slug": "onza",
-      "day": "2026-09-22",
+      "day": "2026-09-23",
       "selling": 6,
       "buying": 0,
+      "activity": 6
+    },
+    {
+      "id": "parrot",
+      "name": "Parrot",
+      "slug": "parrot",
+      "day": "2026-09-23",
+      "selling": 6,
+      "buying": 0,
+      "activity": 6
+    },
+    {
+      "id": "pet-baby-sitting",
+      "name": "Pet/Baby Sitting",
+      "slug": "pet-baby-sitting",
+      "day": "2026-09-23",
+      "selling": 6,
+      "buying": null,
       "activity": 6
     },
     {
       "id": "poodle",
       "name": "Poodle",
       "slug": "poodle",
-      "day": "2026-09-22",
+      "day": "2026-09-23",
       "selling": 6,
       "buying": 0,
       "activity": 6
     },
     {
-      "id": "pupcake",
-      "name": "Pupcake",
-      "slug": "pupcake",
-      "day": "2026-09-22",
+      "id": "ram",
+      "name": "Ram",
+      "slug": "ram",
+      "day": "2026-09-23",
       "selling": 6,
       "buying": 0,
       "activity": 6
@@ -235,226 +406,55 @@
       "id": "ribbon-seal",
       "name": "Ribbon Seal",
       "slug": "ribbon-seal",
-      "day": "2026-09-22",
+      "day": "2026-09-23",
       "selling": 6,
       "buying": 0,
       "activity": 6
     },
     {
-      "id": "zeopod",
-      "name": "Zeopod",
-      "slug": "zeopod",
-      "day": "2026-09-22",
+      "id": "robot",
+      "name": "Robot",
+      "slug": "robot",
+      "day": "2026-09-23",
       "selling": 6,
       "buying": 0,
       "activity": 6
     },
     {
-      "id": "candicorn",
-      "name": "Candicorn",
-      "slug": "candicorn",
-      "day": "2026-09-22",
-      "selling": 5,
-      "buying": 1,
+      "id": "strawberry-shortcake-bat-dragon",
+      "name": "Strawberry Shortcake Bat Dragon",
+      "slug": "strawberry-shortcake-bat-dragon",
+      "day": "2026-09-23",
+      "selling": 6,
+      "buying": 0,
       "activity": 6
     },
     {
-      "id": "cryptid",
-      "name": "Cryptid",
-      "slug": "cryptid",
-      "day": "2026-09-22",
-      "selling": 5,
-      "buying": 1,
+      "id": "swordfish",
+      "name": "Swordfish",
+      "slug": "swordfish",
+      "day": "2026-09-23",
+      "selling": 6,
+      "buying": 0,
       "activity": 6
     },
     {
-      "id": "burger-bear",
-      "name": "Burger Bear",
-      "slug": "burger-bear",
-      "day": "2026-09-22",
-      "selling": 5,
-      "buying": 0,
-      "activity": 5
-    },
-    {
-      "id": "california-condor",
-      "name": "California Condor",
-      "slug": "california-condor",
-      "day": "2026-09-22",
-      "selling": 5,
-      "buying": 0,
-      "activity": 5
-    },
-    {
-      "id": "camel",
-      "name": "Camel",
-      "slug": "camel",
-      "day": "2026-09-22",
-      "selling": 5,
-      "buying": 0,
-      "activity": 5
-    },
-    {
-      "id": "chocolate-chip-bat-dragon",
-      "name": "Chocolate Chip Bat Dragon",
-      "slug": "chocolate-chip-bat-dragon",
-      "day": "2026-09-22",
-      "selling": 5,
-      "buying": 0,
-      "activity": 5
-    },
-    {
-      "id": "crimson-cape",
-      "name": "Crimson Cape",
-      "slug": "crimson-cape",
-      "day": "2026-09-22",
-      "selling": 5,
+      "id": "throwback-egg",
+      "name": "Throwback Egg",
+      "slug": "throwback-egg",
+      "day": "2026-09-23",
+      "selling": 6,
       "buying": null,
-      "activity": 5
+      "activity": 6
     },
     {
-      "id": "dango-penguins",
-      "name": "Dango Penguins",
-      "slug": "dango-penguins",
-      "day": "2026-09-22",
-      "selling": 5,
+      "id": "turtle",
+      "name": "Turtle",
+      "slug": "turtle",
+      "day": "2026-09-23",
+      "selling": 6,
       "buying": 0,
-      "activity": 5
-    },
-    {
-      "id": "dark-choccybunny",
-      "name": "Dark Choccybunny",
-      "slug": "dark-choccybunny",
-      "day": "2026-09-22",
-      "selling": 5,
-      "buying": 0,
-      "activity": 5
-    },
-    {
-      "id": "frozen-penguin",
-      "name": "Frozen Penguin",
-      "slug": "frozen-penguin",
-      "day": "2026-09-22",
-      "selling": 5,
-      "buying": 0,
-      "activity": 5
-    },
-    {
-      "id": "gumball-caterpillar",
-      "name": "Gumball Caterpillar",
-      "slug": "gumball-caterpillar",
-      "day": "2026-09-22",
-      "selling": 5,
-      "buying": 0,
-      "activity": 5
-    },
-    {
-      "id": "irish-setter",
-      "name": "Irish Setter",
-      "slug": "irish-setter",
-      "day": "2026-09-22",
-      "selling": 5,
-      "buying": 0,
-      "activity": 5
-    },
-    {
-      "id": "mochi-meow",
-      "name": "Mochi Meow",
-      "slug": "mochi-meow",
-      "day": "2026-09-22",
-      "selling": 5,
-      "buying": 0,
-      "activity": 5
-    },
-    {
-      "id": "mr-whiskerpips",
-      "name": "Mr. Whiskerpips",
-      "slug": "mr-whiskerpips",
-      "day": "2026-09-22",
-      "selling": 5,
-      "buying": null,
-      "activity": 5
-    },
-    {
-      "id": "mrs-whiskerpips",
-      "name": "Mrs. Whiskerpips",
-      "slug": "mrs-whiskerpips",
-      "day": "2026-09-22",
-      "selling": 5,
-      "buying": null,
-      "activity": 5
-    },
-    {
-      "id": "ms-muffet",
-      "name": "Ms. Muffet",
-      "slug": "ms-muffet",
-      "day": "2026-09-22",
-      "selling": 5,
-      "buying": null,
-      "activity": 5
-    },
-    {
-      "id": "muskrat",
-      "name": "Muskrat",
-      "slug": "muskrat",
-      "day": "2026-09-22",
-      "selling": 5,
-      "buying": 0,
-      "activity": 5
-    },
-    {
-      "id": "owl",
-      "name": "Owl",
-      "slug": "owl",
-      "day": "2026-09-22",
-      "selling": 5,
-      "buying": 0,
-      "activity": 5
-    },
-    {
-      "id": "shiver-wolf",
-      "name": "Shiver Wolf",
-      "slug": "shiver-wolf",
-      "day": "2026-09-22",
-      "selling": 5,
-      "buying": 0,
-      "activity": 5
-    },
-    {
-      "id": "snorgle",
-      "name": "Snorgle",
-      "slug": "snorgle",
-      "day": "2026-09-22",
-      "selling": 5,
-      "buying": 0,
-      "activity": 5
-    },
-    {
-      "id": "spring-bunny-feet",
-      "name": "Spring Bunny Feet",
-      "slug": "spring-bunny-feet",
-      "day": "2026-09-22",
-      "selling": 5,
-      "buying": 0,
-      "activity": 5
-    },
-    {
-      "id": "water-opossum",
-      "name": "Water Opossum",
-      "slug": "water-opossum",
-      "day": "2026-09-22",
-      "selling": 5,
-      "buying": 0,
-      "activity": 5
-    },
-    {
-      "id": "witchs-caravan",
-      "name": "Witch's Caravan",
-      "slug": "witchs-caravan",
-      "day": "2026-09-22",
-      "selling": 5,
-      "buying": 0,
-      "activity": 5
+      "activity": 6
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-22T22:00:22.954Z",
+  "updatedAt": "2026-09-23T06:33:44.560Z",
   "source": "FairStash",
   "sourceUrl": "https://fairstash.app/data/supply.csv",
   "retentionDays": 90,
@@ -4625,6 +4625,4164 @@
         },
         {
           "id": "royal-carriage",
+          "selling": 0,
+          "buying": 1,
+          "activity": 1
+        }
+      ]
+    },
+    {
+      "day": "2026-09-23",
+      "updatedAt": "2026-09-23T06:33:44.560Z",
+      "items": [
+        {
+          "id": "ride-a-pet-potion-forever",
+          "selling": 18,
+          "buying": 4,
+          "activity": 22
+        },
+        {
+          "id": "huntsman-robin",
+          "selling": 14,
+          "buying": null,
+          "activity": 14
+        },
+        {
+          "id": "cryptid",
+          "selling": 12,
+          "buying": 1,
+          "activity": 13
+        },
+        {
+          "id": "unicorn",
+          "selling": 11,
+          "buying": 1,
+          "activity": 12
+        },
+        {
+          "id": "crimson-cape",
+          "selling": 11,
+          "buying": null,
+          "activity": 11
+        },
+        {
+          "id": "elephant",
+          "selling": 9,
+          "buying": 0,
+          "activity": 9
+        },
+        {
+          "id": "icy-porcupine",
+          "selling": 9,
+          "buying": 0,
+          "activity": 9
+        },
+        {
+          "id": "kangaroo",
+          "selling": 9,
+          "buying": 0,
+          "activity": 9
+        },
+        {
+          "id": "tiny-home",
+          "selling": 9,
+          "buying": 0,
+          "activity": 9
+        },
+        {
+          "id": "california-condor",
+          "selling": 8,
+          "buying": 0,
+          "activity": 8
+        },
+        {
+          "id": "chameleon",
+          "selling": 8,
+          "buying": 0,
+          "activity": 8
+        },
+        {
+          "id": "chihuahua",
+          "selling": 8,
+          "buying": 0,
+          "activity": 8
+        },
+        {
+          "id": "cow",
+          "selling": 8,
+          "buying": 0,
+          "activity": 8
+        },
+        {
+          "id": "frozen-penguin",
+          "selling": 8,
+          "buying": 0,
+          "activity": 8
+        },
+        {
+          "id": "gumball-caterpillar",
+          "selling": 8,
+          "buying": 0,
+          "activity": 8
+        },
+        {
+          "id": "pangolin",
+          "selling": 8,
+          "buying": 0,
+          "activity": 8
+        },
+        {
+          "id": "three-blind-mice",
+          "selling": 8,
+          "buying": null,
+          "activity": 8
+        },
+        {
+          "id": "alicorn",
+          "selling": 7,
+          "buying": 0,
+          "activity": 7
+        },
+        {
+          "id": "cattuccino",
+          "selling": 7,
+          "buying": null,
+          "activity": 7
+        },
+        {
+          "id": "dalmatian",
+          "selling": 7,
+          "buying": 0,
+          "activity": 7
+        },
+        {
+          "id": "deinonychus",
+          "selling": 7,
+          "buying": 0,
+          "activity": 7
+        },
+        {
+          "id": "donkey",
+          "selling": 7,
+          "buying": 0,
+          "activity": 7
+        },
+        {
+          "id": "golden-unicorn",
+          "selling": 7,
+          "buying": 0,
+          "activity": 7
+        },
+        {
+          "id": "pupcake",
+          "selling": 7,
+          "buying": 0,
+          "activity": 7
+        },
+        {
+          "id": "retired-egg",
+          "selling": 7,
+          "buying": 0,
+          "activity": 7
+        },
+        {
+          "id": "rubber-ducky",
+          "selling": 7,
+          "buying": 0,
+          "activity": 7
+        },
+        {
+          "id": "mochi-meow",
+          "selling": 6,
+          "buying": 1,
+          "activity": 7
+        },
+        {
+          "id": "badger",
+          "selling": 6,
+          "buying": 0,
+          "activity": 6
+        },
+        {
+          "id": "beaver",
+          "selling": 6,
+          "buying": 0,
+          "activity": 6
+        },
+        {
+          "id": "bee",
+          "selling": 6,
+          "buying": 0,
+          "activity": 6
+        },
+        {
+          "id": "bready-necklace",
+          "selling": 6,
+          "buying": 0,
+          "activity": 6
+        },
+        {
+          "id": "catte",
+          "selling": 6,
+          "buying": null,
+          "activity": 6
+        },
+        {
+          "id": "dragonfruit-fox",
+          "selling": 6,
+          "buying": 0,
+          "activity": 6
+        },
+        {
+          "id": "endangered-egg",
+          "selling": 6,
+          "buying": 0,
+          "activity": 6
+        },
+        {
+          "id": "fairytale-egg",
+          "selling": 6,
+          "buying": null,
+          "activity": 6
+        },
+        {
+          "id": "goat",
+          "selling": 6,
+          "buying": 0,
+          "activity": 6
+        },
+        {
+          "id": "golden-dragon",
+          "selling": 6,
+          "buying": 0,
+          "activity": 6
+        },
+        {
+          "id": "goose",
+          "selling": 6,
+          "buying": 0,
+          "activity": 6
+        },
+        {
+          "id": "oakee",
+          "selling": 6,
+          "buying": 0,
+          "activity": 6
+        },
+        {
+          "id": "onza",
+          "selling": 6,
+          "buying": 0,
+          "activity": 6
+        },
+        {
+          "id": "parrot",
+          "selling": 6,
+          "buying": 0,
+          "activity": 6
+        },
+        {
+          "id": "pet-baby-sitting",
+          "selling": 6,
+          "buying": null,
+          "activity": 6
+        },
+        {
+          "id": "poodle",
+          "selling": 6,
+          "buying": 0,
+          "activity": 6
+        },
+        {
+          "id": "ram",
+          "selling": 6,
+          "buying": 0,
+          "activity": 6
+        },
+        {
+          "id": "ribbon-seal",
+          "selling": 6,
+          "buying": 0,
+          "activity": 6
+        },
+        {
+          "id": "robot",
+          "selling": 6,
+          "buying": 0,
+          "activity": 6
+        },
+        {
+          "id": "strawberry-shortcake-bat-dragon",
+          "selling": 6,
+          "buying": 0,
+          "activity": 6
+        },
+        {
+          "id": "swordfish",
+          "selling": 6,
+          "buying": 0,
+          "activity": 6
+        },
+        {
+          "id": "throwback-egg",
+          "selling": 6,
+          "buying": null,
+          "activity": 6
+        },
+        {
+          "id": "turtle",
+          "selling": 6,
+          "buying": 0,
+          "activity": 6
+        },
+        {
+          "id": "undead-jousting-horse",
+          "selling": 6,
+          "buying": 0,
+          "activity": 6
+        },
+        {
+          "id": "zebra",
+          "selling": 6,
+          "buying": 0,
+          "activity": 6
+        },
+        {
+          "id": "zeopod",
+          "selling": 6,
+          "buying": 0,
+          "activity": 6
+        },
+        {
+          "id": "siamese-cat",
+          "selling": 5,
+          "buying": 1,
+          "activity": 6
+        },
+        {
+          "id": "balloon-unicorn",
+          "selling": 4,
+          "buying": 2,
+          "activity": 6
+        },
+        {
+          "id": "black-rhino",
+          "selling": 5,
+          "buying": 0,
+          "activity": 5
+        },
+        {
+          "id": "candicorn",
+          "selling": 5,
+          "buying": 0,
+          "activity": 5
+        },
+        {
+          "id": "chanekeh",
+          "selling": 5,
+          "buying": 0,
+          "activity": 5
+        },
+        {
+          "id": "clumpty",
+          "selling": 5,
+          "buying": null,
+          "activity": 5
+        },
+        {
+          "id": "dark-choccybunny",
+          "selling": 5,
+          "buying": 0,
+          "activity": 5
+        },
+        {
+          "id": "dire-wolf",
+          "selling": 5,
+          "buying": 0,
+          "activity": 5
+        },
+        {
+          "id": "dragonfly",
+          "selling": 5,
+          "buying": 0,
+          "activity": 5
+        },
+        {
+          "id": "feather",
+          "selling": 5,
+          "buying": 0,
+          "activity": 5
+        },
+        {
+          "id": "fennec-fox",
+          "selling": 5,
+          "buying": 0,
+          "activity": 5
+        },
+        {
+          "id": "fire-mare",
+          "selling": 5,
+          "buying": 0,
+          "activity": 5
+        },
+        {
+          "id": "galapagos-sea-lion",
+          "selling": 5,
+          "buying": 0,
+          "activity": 5
+        },
+        {
+          "id": "harp-seal",
+          "selling": 5,
+          "buying": 0,
+          "activity": 5
+        },
+        {
+          "id": "moonpine",
+          "selling": 5,
+          "buying": 0,
+          "activity": 5
+        },
+        {
+          "id": "munchkin-cat",
+          "selling": 5,
+          "buying": 0,
+          "activity": 5
+        },
+        {
+          "id": "muskrat",
+          "selling": 5,
+          "buying": 0,
+          "activity": 5
+        },
+        {
+          "id": "oakee-wizard",
+          "selling": 5,
+          "buying": 0,
+          "activity": 5
+        },
+        {
+          "id": "parakeet",
+          "selling": 5,
+          "buying": 0,
+          "activity": 5
+        },
+        {
+          "id": "polymorph-potion",
+          "selling": 5,
+          "buying": null,
+          "activity": 5
+        },
+        {
+          "id": "quetzalcoatl",
+          "selling": 5,
+          "buying": 0,
+          "activity": 5
+        },
+        {
+          "id": "royal-egg",
+          "selling": 5,
+          "buying": 0,
+          "activity": 5
+        },
+        {
+          "id": "starfish",
+          "selling": 5,
+          "buying": 0,
+          "activity": 5
+        },
+        {
+          "id": "storm-condor",
+          "selling": 5,
+          "buying": 0,
+          "activity": 5
+        },
+        {
+          "id": "toucan",
+          "selling": 5,
+          "buying": 0,
+          "activity": 5
+        },
+        {
+          "id": "ancient-dragon",
+          "selling": 4,
+          "buying": 0,
+          "activity": 4
+        },
+        {
+          "id": "angus-calf",
+          "selling": 4,
+          "buying": 0,
+          "activity": 4
+        },
+        {
+          "id": "bat-dragon",
+          "selling": 4,
+          "buying": 0,
+          "activity": 4
+        },
+        {
+          "id": "billy-goat",
+          "selling": 4,
+          "buying": 0,
+          "activity": 4
+        },
+        {
+          "id": "black-tiger",
+          "selling": 4,
+          "buying": 0,
+          "activity": 4
+        },
+        {
+          "id": "black-footed-ferret",
+          "selling": 4,
+          "buying": 0,
+          "activity": 4
+        },
+        {
+          "id": "budgie-witch",
+          "selling": 4,
+          "buying": null,
+          "activity": 4
+        },
+        {
+          "id": "camel",
+          "selling": 4,
+          "buying": 0,
+          "activity": 4
+        },
+        {
+          "id": "chef-hat",
+          "selling": 4,
+          "buying": 0,
+          "activity": 4
+        },
+        {
+          "id": "chocolate-chow-chow",
+          "selling": 4,
+          "buying": 0,
+          "activity": 4
+        },
+        {
+          "id": "chocolate-dutch-guinea-pig",
+          "selling": 4,
+          "buying": 0,
+          "activity": 4
+        },
+        {
+          "id": "chocolate-labrador",
+          "selling": 4,
+          "buying": 0,
+          "activity": 4
+        },
+        {
+          "id": "christmas-spirit",
+          "selling": 4,
+          "buying": 0,
+          "activity": 4
+        },
+        {
+          "id": "crocodile",
+          "selling": 4,
+          "buying": 0,
+          "activity": 4
+        },
+        {
+          "id": "diamond-unicorn",
+          "selling": 4,
+          "buying": 0,
+          "activity": 4
+        },
+        {
+          "id": "fly-a-pet-potion-forever",
+          "selling": 4,
+          "buying": 0,
+          "activity": 4
+        },
+        {
+          "id": "frost-dragon",
+          "selling": 4,
+          "buying": 0,
+          "activity": 4
+        },
+        {
+          "id": "frost-fury",
+          "selling": 4,
+          "buying": 0,
+          "activity": 4
+        },
+        {
+          "id": "german-shepherd",
+          "selling": 4,
+          "buying": 0,
+          "activity": 4
+        },
+        {
+          "id": "ghostly-cat",
+          "selling": 4,
+          "buying": 0,
+          "activity": 4
+        },
+        {
+          "id": "ginger-cat",
+          "selling": 4,
+          "buying": 0,
+          "activity": 4
+        },
+        {
+          "id": "golden-griffin",
+          "selling": 4,
+          "buying": 0,
+          "activity": 4
+        },
+        {
+          "id": "granny-wolf",
+          "selling": 4,
+          "buying": null,
+          "activity": 4
+        },
+        {
+          "id": "grinmoire",
+          "selling": 4,
+          "buying": 0,
+          "activity": 4
+        },
+        {
+          "id": "ice-moth-dragon",
+          "selling": 4,
+          "buying": 0,
+          "activity": 4
+        },
+        {
+          "id": "kakapo",
+          "selling": 4,
+          "buying": 0,
+          "activity": 4
+        },
+        {
+          "id": "ladybug",
+          "selling": 4,
+          "buying": 0,
+          "activity": 4
+        },
+        {
+          "id": "latte-kitsune",
+          "selling": 4,
+          "buying": 0,
+          "activity": 4
+        },
+        {
+          "id": "metal-ox",
+          "selling": 4,
+          "buying": 0,
+          "activity": 4
+        },
+        {
+          "id": "milk-choccybunny",
+          "selling": 4,
+          "buying": 0,
+          "activity": 4
+        },
+        {
+          "id": "panda",
+          "selling": 4,
+          "buying": 0,
+          "activity": 4
+        },
+        {
+          "id": "polar-bear",
+          "selling": 4,
+          "buying": 0,
+          "activity": 4
+        },
+        {
+          "id": "pomeranian",
+          "selling": 4,
+          "buying": 0,
+          "activity": 4
+        },
+        {
+          "id": "pterodactyl",
+          "selling": 4,
+          "buying": 0,
+          "activity": 4
+        },
+        {
+          "id": "purrowl",
+          "selling": 4,
+          "buying": 0,
+          "activity": 4
+        },
+        {
+          "id": "shadow-dragon",
+          "selling": 4,
+          "buying": 0,
+          "activity": 4
+        },
+        {
+          "id": "shark-puppy",
+          "selling": 4,
+          "buying": 0,
+          "activity": 4
+        },
+        {
+          "id": "shrew",
+          "selling": 4,
+          "buying": 0,
+          "activity": 4
+        },
+        {
+          "id": "snow-owl",
+          "selling": 4,
+          "buying": 0,
+          "activity": 4
+        },
+        {
+          "id": "tree-frog",
+          "selling": 4,
+          "buying": 0,
+          "activity": 4
+        },
+        {
+          "id": "treehouse",
+          "selling": 4,
+          "buying": 0,
+          "activity": 4
+        },
+        {
+          "id": "unicorn-ducky",
+          "selling": 4,
+          "buying": 0,
+          "activity": 4
+        },
+        {
+          "id": "water-moon-bear",
+          "selling": 4,
+          "buying": 0,
+          "activity": 4
+        },
+        {
+          "id": "water-opossum",
+          "selling": 4,
+          "buying": 0,
+          "activity": 4
+        },
+        {
+          "id": "water-rabbit",
+          "selling": 4,
+          "buying": 0,
+          "activity": 4
+        },
+        {
+          "id": "arctic-dusk-dragon",
+          "selling": 3,
+          "buying": 1,
+          "activity": 4
+        },
+        {
+          "id": "cabbit",
+          "selling": 2,
+          "buying": 2,
+          "activity": 4
+        },
+        {
+          "id": "abyssinian-cat",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "baku",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "blue-cat",
+          "selling": 3,
+          "buying": null,
+          "activity": 3
+        },
+        {
+          "id": "blue-whale",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "buffalo",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "bunker-house",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "chocolate-chip-bat-dragon-backpack",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "choosy-potion",
+          "selling": 3,
+          "buying": null,
+          "activity": 3
+        },
+        {
+          "id": "corgi",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "cracked-egg",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "diamond-dragon",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "dracula-fish",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "dragon",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "fairy-bat-dragon",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "floating-cloud",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "frostbite-cub",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "general-sheepdog",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "giant-panda",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "gibbon",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "glyptodon-ducky",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "golden-egg",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "grim-dragon",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "gummy-guana",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "hedgehog",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "ice-monocle",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "kaijunior",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "lunar-moon-bear",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "magma-snail",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "mahi-mahi",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "matcha-cat",
+          "selling": 3,
+          "buying": null,
+          "activity": 3
+        },
+        {
+          "id": "mexican-wolf",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "modern-mansion",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "monkey-king",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "mouse",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "oakee-knight",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "ox",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "pet-egg",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "pink-butterfly-wings",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "pink-dog",
+          "selling": 3,
+          "buying": null,
+          "activity": 3
+        },
+        {
+          "id": "pinkypillar",
+          "selling": 3,
+          "buying": null,
+          "activity": 3
+        },
+        {
+          "id": "princess-mare",
+          "selling": 3,
+          "buying": null,
+          "activity": 3
+        },
+        {
+          "id": "quokka",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "rat",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "ratatoskr",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "samoyed",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "shadow-dragon-ducky",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "shih-tzu",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "sloth",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "snow-puma",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "snowy-mammoth",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "solaris",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "starmite",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "sword",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "tegu",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "toasty-red-panda",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "unicorn-horn",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "velocirooster",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "werewolf",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "winter-buck",
+          "selling": 3,
+          "buying": 0,
+          "activity": 3
+        },
+        {
+          "id": "rainbow-maker",
+          "selling": 2,
+          "buying": 1,
+          "activity": 3
+        },
+        {
+          "id": "2021-uplift-butterfly",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "2022-birthday-party-hat",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "2026-birthday-butterfly",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "admin-abuse-box",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "amber-butterfly",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "ant",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "arctic-hare",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "arctic-reindeer",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "aye-aye-sticker",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "ballet-swan",
+          "selling": 2,
+          "buying": null,
+          "activity": 2
+        },
+        {
+          "id": "bat-face-roller-skates",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "bird-feeder-pogo",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "black-panther",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "bonus-bucks-potion",
+          "selling": 2,
+          "buying": null,
+          "activity": 2
+        },
+        {
+          "id": "burger-bun-hat",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "cake-friend",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "capricorn",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "capuchin-monkey",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "catapult-stroller",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "cerberus",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "cherub-chipmunk",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "choco-penguin",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "chocolate-chip-bat-dragon",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "clementine-owl",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "clover-cow",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "clubtail-dragonfly",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "cobra",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "crab",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "crow",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "cure-all-potion",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "dango-penguins",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "diamond-amazon",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "diamond-glasses",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "diamond-griffin",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "diamond-mahi-mahi",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "dilophosaurus",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "dragon-breath-animated-sticker",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "ehecatl",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "fire-foal",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "flaming-fox",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "flying-fairy",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "forest-sprite",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "frost-phoenix",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "frostbite-bear",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "frostbite-bear-and-cub-animated-sticker",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "frostclaw",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "frozen-crown",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "gecko-ducky",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "giraffe",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "glamicorn-purse-pet",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "gold-mahi-mahi",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "golden-hamster",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "goth-spike-boots",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "great-pyrenees",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "green-butterfly",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "ground-sloth",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "hermit-crab-box",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "home-potion",
+          "selling": 2,
+          "buying": null,
+          "activity": 2
+        },
+        {
+          "id": "hot-doggo",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "humbug",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "ice-cape",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "ice-cream-cone-hat",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "ice-cream-heels",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "inspector-sherbet-bus",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "japanese-snow-fairy",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "jiggly-jerboa",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "king-bee",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "kiwi-hat",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "koala",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "limo",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "llama-rattle",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "lunar-tiger",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "magpie",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "maine-coon",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "merhorse",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "mini-pig",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "moose-calf",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "mr-whiskerpips",
+          "selling": 2,
+          "buying": null,
+          "activity": 2
+        },
+        {
+          "id": "mrs-whiskerpips",
+          "selling": 2,
+          "buying": null,
+          "activity": 2
+        },
+        {
+          "id": "ms-muffet",
+          "selling": 2,
+          "buying": null,
+          "activity": 2
+        },
+        {
+          "id": "nessie",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "octopus",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "old-king-coal-pet",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "orange-betta-fish",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "orangutan",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "owl",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "pancake-stack",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "peacock",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "penguin",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "peppermint-penguin",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "pet-handler-pro-certificate",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "pink-cowboy-hat",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "postie-van",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "preferred-potion",
+          "selling": 2,
+          "buying": null,
+          "activity": 2
+        },
+        {
+          "id": "puma",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "queenslander-house",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "rabbit",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "red-panda-ducky",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "rhino",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "ringmaster-gibbon",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "rock",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "ronin-hat",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "rotating-periscope",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "sakura-spirit",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "sasquatch",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "seahorse",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "secret-talent-potion",
+          "selling": 2,
+          "buying": null,
+          "activity": 2
+        },
+        {
+          "id": "sheeeeep",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "shiba-inu",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "snorgle",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "solar-winged-halo",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "sprout-snail",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "squid",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "st-bernard",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "strawberry-shortcake-bow",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "sunrise-duckling",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "tan-chow-chow",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "tiny-wings",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "toxic-kaijunior",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "turtle-doves",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "violet-friend",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "winter-fawn",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "witchs-caravan",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "wood-pigeon",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "wren",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "yeti",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "zebra-backpack",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "zodiac-minion-chick",
+          "selling": 2,
+          "buying": 0,
+          "activity": 2
+        },
+        {
+          "id": "christmas-pudding-pup",
+          "selling": 1,
+          "buying": 1,
+          "activity": 2
+        },
+        {
+          "id": "french-bulldog",
+          "selling": 1,
+          "buying": 1,
+          "activity": 2
+        },
+        {
+          "id": "glacier-kitsune",
+          "selling": 1,
+          "buying": 1,
+          "activity": 2
+        },
+        {
+          "id": "groundhog",
+          "selling": 1,
+          "buying": 1,
+          "activity": 2
+        },
+        {
+          "id": "propeller-hat",
+          "selling": 1,
+          "buying": 1,
+          "activity": 2
+        },
+        {
+          "id": "smores-raccoon",
+          "selling": 1,
+          "buying": 1,
+          "activity": 2
+        },
+        {
+          "id": "scarecrow-cat",
+          "selling": 1,
+          "buying": 1,
+          "activity": 2
+        },
+        {
+          "id": "2022-birthday-cake",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "2d-crown",
+          "selling": 1,
+          "buying": null,
+          "activity": 1
+        },
+        {
+          "id": "2d-doggy",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "3d-printer-hat",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "aestus",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "african-wild-dog",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "airplane-wings",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "albino-bat",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "albino-monkey",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "alien-eyes-hat",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "amami-rabbit",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "amethyst-skies-mega-neon-pet-paint",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "angelic-propeller",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "angus-cow",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "anti-gravity-potion",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "apple-owl",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "arctic-fox",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "armadillo",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "aurora-fox",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "aye-aye",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "aztec-egg",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "baby-basket-stroller",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "back-pencil",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "bakeneko",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "balloon-wings-pet-item",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "bamboo-earrings",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "banana-hat",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "banana-rattle",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "bat",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "bear-keychain",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "bear-winter-hat",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "beluga-whale",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "big-gift",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "big-head-potion",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "black-cartoon-hair",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "black-kite",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "bloodhound",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "blue-cat-ear-headphones",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "blue-ringed-octopus",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "bone-xylophone",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "brainworm",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "broken-egg",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "brown-bear",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "bunny-ear-tiara",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "bunny-swirl",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "burger-plushie",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "butter-knife",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "butterfly-headphones",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "buzz-off-skateboard",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "cactus-friend-hat",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "candy-flare-mega-neon-pet-paint",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "candyfloss-chick",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "carrot-friend-plushie",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "carrot-headphones",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "carrot-sprout",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "cat",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "cat-backpack",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "cat-hood",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "cauldron-stroller",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "cerberus-sticker",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "cherry-balloon",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "chestnut-glyptodon",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "chick",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "chick-backpack",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "chilling-spider",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "chipmunk",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "cicada-brooch",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "cinnamon-swirl-propeller",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "city-hat",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "classic-teapot",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "clouds-rainbow-rattle",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "clownfish",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "corn-doggo",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "cotton-candy-hat",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "cowboy-boots",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "cowry-shell-clip",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "coyote",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "crate-stroller",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "crayon-mohawk",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "cuddly-candle",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "cupcake-hat",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "cupid-dragon",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "cyborg-eye",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "da-vinci-propeller",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "dimension-drifter",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "dimorphodon",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "dog",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "dolphin",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "dolphin-cruiser",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "donut-rattle",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "dragonfruit-feet",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "drone-propeller",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "easter-bunny",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "eaten-watermelon",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "eggnog-hare",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "electric-tide-mega-neon-pet-paint",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "emberlight",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "emu",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "english-sheepdog",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "ermine",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "evil-chickatrice",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "evil-unicorn",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "eyeball-rattle",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "fairy-rose-light-rattle",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "fairytale-castle",
+          "selling": 1,
+          "buying": null,
+          "activity": 1
+        },
+        {
+          "id": "fallow-deer",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "fire-stallion",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "firefighter-gibbon",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "flame-glasses",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "flame-grappling-hook",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "fleur-de-ice",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "flower-afro-puffs",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "flower-crown",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "flying-fish",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "flying-fish-wings-pet-item",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "frog",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "froggy-stroller",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "frogspawn",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "frozen-balloon",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "fur-tuft",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "future-sight-potion",
+          "selling": 1,
+          "buying": null,
+          "activity": 1
+        },
+        {
+          "id": "galaxy-explorer-helmet",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "gecko",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "ghost",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "ghost-chick",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "ghost-dog",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "ghost-kitty-backpack",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "ghost-wolf",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "giant-black-scarab",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "gingerbread-mouse",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "gingerbread-reindeer",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "gingerbread-star-eye-patch",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "gold-circle-glasses",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "golden-bone",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "golden-hummingbird",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "golden-lettuce",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "golden-penguin",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "goldhorn",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "googly-eye-glasses",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "gothic-horns",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "green-amazon",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "green-headscarf",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "grow-potion",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "guardian-lion",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "halloween-black-ponycycle",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "halloween-blue-scorpion",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "halloween-hotel",
+          "selling": 1,
+          "buying": null,
+          "activity": 1
+        },
+        {
+          "id": "halloween-mummy-cat-box",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "halloween-orange-pumpkin-balloon",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "halloween-white-ghost-dragon",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "halloween-white-skeleton-dog",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "happy-clam",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "happy-duckling",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "heart-bow",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "honey-jar",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "hover-stroller",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "hoverboard",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "hovercraft",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "hydra",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "ice-cream-hermit-crab",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "ice-cream-rattle",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "ice-cube-throw-toy",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "ice-halo",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "ice-shoes",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "icey-aura",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "instant-photo-necklace",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "interior-design",
+          "selling": 1,
+          "buying": null,
+          "activity": 1
+        },
+        {
+          "id": "irish-elk",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "irish-setter",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "island-tarsier",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "jeffs-nametag",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "jingle-bell-earrings",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "jousting-horse",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "jumping-spider",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "kangaroo-stroller",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "kelp-hunter",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "kelp-raider",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "keyring",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "kid-goat",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "king-penguin",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "kitty-bat",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "kitty-bat-sticker",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "kitty-biscuit",
+          "selling": 1,
+          "buying": null,
+          "activity": 1
+        },
+        {
+          "id": "knight-helmet",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "koi-carp",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "lamb",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "large-bow",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "laser-hat",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "lava-dragon",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "lavender-dragon",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "lion-cub",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "lions-mane",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "little-lamb",
+          "selling": 1,
+          "buying": null,
+          "activity": 1
+        },
+        {
+          "id": "llama",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "lunar-gold-tiger",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "lunar-new-year-knot-earrings",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "lunar-ox",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "lunar-white-tiger",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "luxury-soap",
+          "selling": 1,
+          "buying": null,
+          "activity": 1
+        },
+        {
+          "id": "magic-carpet-stroller",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "magic-girl-sword",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "magic-girl-tennis-racket",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "magic-moon-stroller",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "magical-staff",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "magma-moose",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "majestic-pony",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "maleo-bird",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "massive-gift",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "medieval-grapple",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "meerkat",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "mermicorn",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "mini-schnauzer",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "mole",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "momma-moose",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "mongoose",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "monkey",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "mosquito",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "moth-hair-clip",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "mushroom-friend-plushie",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "nap-mask",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "naughty-mistletroll",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "nebula-snake",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "night-in-a-jar",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "noodle-cup-throw-toy",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "nutcracker-hat",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "nutcracker-squirrel",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "ocelot",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "orbital-roller-skates",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "orca",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "otter",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "owlbear",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "paint-sealer",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "papa-moose",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "peachick",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "peahen",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "pelican-stroller",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "peregrine-falcon",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "phantom-dragon",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "phoenix",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "pig",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "pilot-gull",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "pineapple-owl",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "pink-boots",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "pink-bowling-ball",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "pink-hightops",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "pizza-unicycle",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "placeable-snowperson",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "poison-dart-frog",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "pretty-pony",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "princess-rattle",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "princess-stroller",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "prismatic-butterfly",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "puddleducks-hood",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "purple-heart-glasses",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "purple-mushrooms",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "queen-bee",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "raccoon",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "radish-friend",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "rain-cloud-hat",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "rainbow-trout",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "red-crowned-crane",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "red-dutch-guinea-pig",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "red-fox",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "red-panda",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "red-panda-bag",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "red-ribbon",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "red-sneakers",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "red-squirrel",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "regal-chest",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "reindeer-rattle",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "retro-3d-glasses",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "rgb-leash",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "rice-cake-hat",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "ring-tailed-lemur",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "river-otter",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "roadrunner",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "robin",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "robo-dog",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "robot-arm",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "rose-quartz-glow-mega-neon-pet-paint",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "rose-rattle",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "royal-corgi",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "rubber-ducky-box",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "ruby-necklace",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "s-mores-earrings",
+          "selling": 1,
+          "buying": null,
+          "activity": 1
+        },
+        {
+          "id": "sabertooth",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "sakura-scythe",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "santa-beard",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "santas-helper-stroller",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "science-hat",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "scorching-kaijunior",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "sea-angel",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "sea-turtle",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "security-spotlight",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "septum-ring",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "shark",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "sheepdog-ducky",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "shetland-pony-dark-brown",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "shetland-pony-white",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "shooting-star-glasses",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "shopping-cart-stroller",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "silly-duck",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "skele-rex",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "small-gift",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "small-sip-potion-10-min",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "snow-cat",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "snow-monkey",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "snowman",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "snowstorm-hat",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "soap-bar",
+          "selling": 1,
+          "buying": null,
+          "activity": 1
+        },
+        {
+          "id": "spring-bunny-hood",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "standard-chest",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "star-hoodie",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "steel-drum",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "stegosaurus",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "striped-necktie",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "stygian-owl",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "summer-walrus",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "sunflower-friend",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "sushi-roll-friend",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "swan",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "sweetheart-rat",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "t-rex",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "tanuki",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "tarantula",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "tarsier",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "teacup-stroller",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "tealwood-monster",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "teddy-bear",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "telescope-pogo",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "temple-friend",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "ten-gallon-hat",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "the-black-dog",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "therapy-dog",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "toaster-hat",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "tool-box",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "top-hat-flying-disc",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "track-paws",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "translucent-tea-potion-10-min",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "trapdoor-snail",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "travel-soap",
+          "selling": 1,
+          "buying": null,
+          "activity": 1
+        },
+        {
+          "id": "tree-skirt",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "tropical-surge-mega-neon-pet-paint",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "trumpet",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "undead-elk-sticker",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "unpoppable-bubble",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "urchin",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "vampire-cape",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "velvet-fuschia-mega-neon-pet-paint",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "vulture",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "waffle-wyrm",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "walrus",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "whimsigoth-bag",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "white-amazon",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "white-choccybunny",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "wild-boar",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "wind-turbine-earrings",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "winged-heels",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "winged-horse",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "winged-tiger",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "witch-boots",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "wolf",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "woolly-mammoth",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "worm-farm-grappling-hook",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "y2k-shades",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "yarn-beanie",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "yellow-designer-backpack",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "zombie-chick",
+          "selling": 1,
+          "buying": 0,
+          "activity": 1
+        },
+        {
+          "id": "halloween-slime-mega-neon-paint",
+          "selling": 0,
+          "buying": 1,
+          "activity": 1
+        },
+        {
+          "id": "rainbow-dragon",
+          "selling": 0,
+          "buying": 1,
+          "activity": 1
+        },
+        {
+          "id": "sushi-penguin",
+          "selling": 0,
+          "buying": 1,
+          "activity": 1
+        },
+        {
+          "id": "wyvern",
           "selling": 0,
           "buying": 1,
           "activity": 1
